@@ -3,11 +3,11 @@ local p = game:GetService("Players").LocalPlayer
 local icon = game:GetService("Players"):GetUserThumbnailAsync(p.UserId, Enum.ThumbnailType.HeadShot, Enum.ThumbnailSize.Size150x150)
 
 game:GetService("StarterGui"):SetCore("SendNotification", {
-	Title = "ProductFaker 26.4", Text = "Script Loaded. Welcome, " .. p.Name .. "! Have fun. :)", Icon = icon, Duration = 5
+	Title = "PurchaseFaker 26.4", Text = "Script Loaded. Welcome, " .. p.Name .. "! Have fun. :)", Icon = icon, Duration = 5
 })
 
 game:GetService("StarterGui"):SetCore("SendNotification", {
-	Title = "ProductFaker 26.4", Text = "github.com/skidsploiter", Icon = icon, Duration = 5
+	Title = "PurchaseFaker 26.4", Text = "github.com/skidsploiter", Icon = icon, Duration = 5
 })
 local ScreenGui = Instance.new("ScreenGui")
 ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
