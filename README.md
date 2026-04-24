@@ -1,6 +1,6 @@
 # purchasefaker
 
-productfaker 26.4 script for roblox. it notifies u when loaded and uses a random string for the gui name so it doesnt get logged as easily as setting a specific name.
+productfaker 26.4 script for roblox. uses a random string for the gui name so it doesnt get logged as easily as setting a specific name.
 
 still VERY detectable and bannable
 
